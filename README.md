@@ -2,7 +2,7 @@
 
 Submitted by: **Keerthi Peruka**
 
-This web app: **displays recipes based**
+This web app: **displays recipes**
 
 Time spent: **3** hours spent in total
 

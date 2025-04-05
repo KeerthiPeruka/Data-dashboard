@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough :
 
 <img src="https://i.postimg.cc/vBNZ1nnT/dashboard.gif" title="Video Walkthrough" height= "300" width="350" alt="Video Walkthrough" />
 

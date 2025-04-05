@@ -9,7 +9,7 @@ function App(){
   const[query, setQuery] = useState('pasta');
   const[error, setError] = useState(null);
 
-  const API_KEY = 'bc38144eea5743798c6d78af7a8a43ef';
+  const API_KEY = 'API_KEY_VALUE';
 
   useEffect(() => {
     const fetchRecipes = async () => {

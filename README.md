@@ -40,5 +40,5 @@ The following **additional** features are implemented:
 
 Here's a walkthrough :
 
-<img src='https://i.postimg.cc/vBNZ1nnT/dashboard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.postimg.cc/43tGpmhB/dashboard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
